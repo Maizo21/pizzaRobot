@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "papajohns.cl",
+      "url": "https://www.papajohns.cl/"
+    },
+    {
+      "id": "2",
+      "name": "meltpizzas.com",
+      "url": "https://meltpizzas.com/catalogo"
+    },
+    {
+      "id": "3",
+      "name": "underpizza.com",
+      "url": "https://underpizza.com/"
+    },
+    {
+      "id": "4",
+      "name": "littlecaesars.com",
+      "url": "https://cl.littlecaesars.com/es-cl/menu/"
+    }
+  ]
+}

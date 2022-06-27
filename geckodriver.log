@@ -1,0 +1,1549 @@
+1656272639349	geckodriver	INFO	Listening on 127.0.0.1:61621
+1656272642380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61622" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileihuoBr"
+1656272642844	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61622
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileihuoBr\\search.json.mozlz4", (void 0)))
+1656272645074	Marionette	INFO	Listening on port 61645
+DevTools listening on ws://localhost:61622/devtools/browser/630c5248-e48a-4e1c-ae51-cb2b00efbec2
+Read port: 61645
+1656272646369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656272653351	Marionette	INFO	Stopped listening on port 61645
+1656272818043	geckodriver	INFO	Listening on 127.0.0.1:61730
+1656272821094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileexI92y"
+1656272821497	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61731
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileexI92y\\search.json.mozlz4", (void 0)))
+1656272823571	Marionette	INFO	Listening on port 61751
+DevTools listening on ws://localhost:61731/devtools/browser/b3455b5b-0cf8-407d-80a1-37d89cda19e9
+Read port: 61751
+1656272823675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656272832635	Marionette	INFO	Stopped listening on port 61751
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656274391094	geckodriver	INFO	Listening on 127.0.0.1:62257
+1656274394157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62258" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilevvtQtx"
+1656274394587	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62258
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilevvtQtx\\search.json.mozlz4", (void 0)))
+1656274396649	Marionette	INFO	Listening on port 62281
+DevTools listening on ws://localhost:62258/devtools/browser/812b4b09-a089-4469-8466-8fe7fd8d0bd0
+Read port: 62281
+1656274396874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: unreachable code after return statement
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656274571609	Marionette	INFO	Stopped listening on port 62281
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656274575792	geckodriver	INFO	Listening on 127.0.0.1:62421
+1656274578863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileHBXklp"
+1656274579263	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62422
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileHBXklp\\search.json.mozlz4", (void 0)))
+1656274581294	Marionette	INFO	Listening on port 62446
+Read port: 62446
+DevTools listening on ws://localhost:62422/devtools/browser/7ffdf8a7-05e7-4deb-af1c-5bc8e5924fd7
+1656274581331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: unreachable code after return statement
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bancoestado.cl"
+1656274586936	Marionette	INFO	Stopped listening on port 62446
+1656274602954	geckodriver	INFO	Listening on 127.0.0.1:62490
+1656274606027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileG1Ll2E"
+1656274606429	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62491
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileG1Ll2E\\search.json.mozlz4", (void 0)))
+1656274608537	Marionette	INFO	Listening on port 62513
+DevTools listening on ws://localhost:62491/devtools/browser/37b3f285-00cf-409c-b4b4-2ad7d7351532
+Read port: 62513
+1656274608608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: unreachable code after return statement
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bancoestado.cl"
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: unreachable code after return statement
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656274642907	Marionette	INFO	Stopped listening on port 62513
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656274694817	geckodriver	INFO	Listening on 127.0.0.1:62687
+1656274697903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62688" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileIvixxN"
+1656274698301	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62688
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileIvixxN\\search.json.mozlz4", (void 0)))
+1656274700469	Marionette	INFO	Listening on port 62712
+DevTools listening on ws://localhost:62688/devtools/browser/ca42f737-9e87-47e0-8ccd-50521d32ffeb
+Read port: 62712
+1656274700566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: unreachable code after return statement
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bancoestado.cl"
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: unreachable code after return statement
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656274728911	Marionette	INFO	Stopped listening on port 62712
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656274802374	geckodriver	INFO	Listening on 127.0.0.1:62810
+1656274805415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62811" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileGeNZEu"
+1656274805832	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62811
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileGeNZEu\\search.json.mozlz4", (void 0)))
+1656274807899	Marionette	INFO	Listening on port 62833
+DevTools listening on ws://localhost:62811/devtools/browser/c8926b3f-a523-42b1-9c97-993f93fbc053
+Read port: 62833
+1656274808110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: unreachable code after return statement
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bancoestado.cl"
+1656274821398	Marionette	INFO	Stopped listening on port 62833
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17284, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1656274838260	geckodriver	INFO	Listening on 127.0.0.1:62882
+1656274841309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilecoffpa"
+1656274841705	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62883
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilecoffpa\\search.json.mozlz4", (void 0)))
+1656274843732	Marionette	INFO	Listening on port 62907
+Read port: 62907
+DevTools listening on ws://localhost:62883/devtools/browser/a400fcd9-94a4-4143-bcdf-c74308be23cf
+1656274843777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: unreachable code after return statement
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bancoestado.cl"
+1656274889101	Marionette	INFO	Stopped listening on port 62907
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656274892524	geckodriver	INFO	Listening on 127.0.0.1:62966
+1656274895587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofiledNbI5t"
+1656274896003	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62967
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofiledNbI5t\\search.json.mozlz4", (void 0)))
+1656274898063	Marionette	INFO	Listening on port 62990
+DevTools listening on ws://localhost:62967/devtools/browser/21a57f8c-0a8e-4f9f-b8e2-aae5cfa8b912
+Read port: 62990
+1656274898160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: unreachable code after return statement
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bancoestado.cl"
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: unreachable code after return statement
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bancoestado.cl"
+1656275124095	Marionette	INFO	Stopped listening on port 62990
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656275602258	geckodriver	INFO	Listening on 127.0.0.1:51211
+1656275605325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51212" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofiletVVZoc"
+1656275605726	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51212
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofiletVVZoc\\search.json.mozlz4", (void 0)))
+1656275607788	Marionette	INFO	Listening on port 51236
+DevTools listening on ws://localhost:51212/devtools/browser/98937004-d0db-4059-9f27-0ee0426615b1
+Read port: 51236
+1656275607993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: unreachable code after return statement
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bancoestado.cl/_pB__0IO9/AFiA-EifQ/waV7mbzNhYmi/fSZnAQ/ISY_dHg/tV30, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656275614513	Marionette	INFO	Stopped listening on port 51236
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656275634027	geckodriver	INFO	Listening on 127.0.0.1:51287
+1656275637090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51288" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilezWmL5r"
+1656275637508	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51288
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilezWmL5r\\search.json.mozlz4", (void 0)))
+1656275639663	Marionette	INFO	Listening on port 51313
+DevTools listening on ws://localhost:51288/devtools/browser/3f7e359f-472b-476c-ba68-653bff9d20b8
+Read port: 51313
+1656275639764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1656277336704	Marionette	INFO	Stopped listening on port 51313
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e enabled
+WebDriver BiDi listening on ws://localhost:51550
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileAmKJ0m\\search.json.mozlz4", (void 0)))
+1656275865451	Marionette	INFO	Listening on port 51572
+Read port: 51572
+1656275865495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:51550/devtools/browser/770a8f32-91d6-4182-9e67-4546e45e15a9
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1656277334371	Marionette	INFO	Stopped listening on port 51572
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e enabled
+WebDriver BiDi listening on ws://localhost:51747
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileD1f0DJ\\search.json.mozlz4", (void 0)))
+1656275977761	Marionette	INFO	Listening on port 51776
+Read port: 51776
+1656275977796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:51747/devtools/browser/3639ada1-ab93-49b8-b69f-e3dedb598ea3
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656275990818	Marionette	INFO	Stopped listening on port 51776
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656277752609	geckodriver	INFO	Listening on 127.0.0.1:53058
+1656277755701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilemH6Nsa"
+1656277756119	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53059
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilemH6Nsa\\search.json.mozlz4", (void 0)))
+1656277758157	Marionette	INFO	Listening on port 53084
+DevTools listening on ws://localhost:53059/devtools/browser/fb146207-429d-4620-bf19-2fad275071d6
+Read port: 53084
+1656277758381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:545:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1656277790268	Marionette	INFO	Stopped listening on port 53084
+1656278021754	geckodriver	INFO	Listening on 127.0.0.1:53356
+1656278024811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilet10ZdI"
+1656278025230	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53357
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilet10ZdI\\search.json.mozlz4", (void 0)))
+1656278027339	Marionette	INFO	Listening on port 53383
+Read port: 53383
+1656278027384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:53357/devtools/browser/a9652757-eea7-42c0-b990-8304388f60a3
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656278200466	Marionette	INFO	Stopped listening on port 53383
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656278203389	geckodriver	INFO	Listening on 127.0.0.1:53601
+1656278206448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53602" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilel14L4e"
+1656278206851	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53602
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilel14L4e\\search.json.mozlz4", (void 0)))
+1656278208885	Marionette	INFO	Listening on port 53626
+Read port: 53626
+1656278208911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:53602/devtools/browser/d211da3a-2a3d-419f-811b-2381be280990
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656278418721	Marionette	INFO	Stopped listening on port 53626
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656278421389	geckodriver	INFO	Listening on 127.0.0.1:53871
+1656278424444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53872" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileuotkXr"
+1656278424858	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53872
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileuotkXr\\search.json.mozlz4", (void 0)))
+1656278426973	Marionette	INFO	Listening on port 53897
+Read port: 53897
+DevTools listening on ws://localhost:53872/devtools/browser/9584036d-a64d-4f47-bca7-fdef4403d810
+1656278427018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656278670712	Marionette	INFO	Stopped listening on port 53897
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656278716966	geckodriver	INFO	Listening on 127.0.0.1:54150
+1656278720033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofile7fNQWm"
+1656278720453	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54151
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofile7fNQWm\\search.json.mozlz4", (void 0)))
+1656278722562	Marionette	INFO	Listening on port 54176
+Read port: 54176
+DevTools listening on ws://localhost:54151/devtools/browser/2cd4d3b5-1731-4a4d-9eff-c760be0c23fa
+1656278722599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656278744606	Marionette	INFO	Stopped listening on port 54176
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656279019863	geckodriver	INFO	Listening on 127.0.0.1:58090
+1656279022902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileJXY6CC"
+1656279023312	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58091
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileJXY6CC\\search.json.mozlz4", (void 0)))
+1656279025426	Marionette	INFO	Listening on port 58116
+Read port: 58116
+DevTools listening on ws://localhost:58091/devtools/browser/3f6d0073-4774-460c-b5e5-8a82f5964339
+1656279025468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656279034361	Marionette	INFO	Stopped listening on port 58116
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656279200689	geckodriver	INFO	Listening on 127.0.0.1:58321
+1656279203725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58322" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileX3Dkj7"
+1656279204148	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58322
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileX3Dkj7\\search.json.mozlz4", (void 0)))
+1656279206229	Marionette	INFO	Listening on port 58349
+DevTools listening on ws://localhost:58322/devtools/browser/d03d7c99-6996-4dec-b774-256030aa645d
+Read port: 58349
+1656279206283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656279420403	Marionette	INFO	Stopped listening on port 58349
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58532" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileTSQ0FJ"
+1656279341978	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58532
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileTSQ0FJ\\search.json.mozlz4", (void 0)))
+1656279344268	Marionette	INFO	Listening on port 58561
+DevTools listening on ws://localhost:58532/devtools/browser/14bc661c-e169-4ad2-933f-4259414bcb2d
+Read port: 58561
+1656279344347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656279421682	Marionette	INFO	Stopped listening on port 58561
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656279424727	geckodriver	INFO	Listening on 127.0.0.1:58715
+1656279427784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58716" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileDOpKDc"
+1656279428253	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58716
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileDOpKDc\\search.json.mozlz4", (void 0)))
+1656279430392	Marionette	INFO	Listening on port 58741
+DevTools listening on ws://localhost:58716/devtools/browser/de7f8c53-9491-423f-8631-1776f4b121e2
+Read port: 58741
+1656279430461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656279644053	Marionette	INFO	Stopped listening on port 58741
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileYKvPX5"
+1656279583947	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58936
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileYKvPX5\\search.json.mozlz4", (void 0)))
+1656279586036	Marionette	INFO	Listening on port 58961
+DevTools listening on ws://localhost:58936/devtools/browser/4b63a86c-ed34-4673-a16e-9538dfdd3e72
+Read port: 58961
+1656279586124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656279643099	Marionette	INFO	Stopped listening on port 58961
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656279652181	geckodriver	INFO	Listening on 127.0.0.1:59115
+1656279655257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofiletrEggC"
+1656279655658	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59116
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofiletrEggC\\search.json.mozlz4", (void 0)))
+1656279657740	Marionette	INFO	Listening on port 59141
+DevTools listening on ws://localhost:59116/devtools/browser/61650282-9643-431d-9b05-66d140da7524
+Read port: 59141
+1656279657830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656279667605	Marionette	INFO	Stopped listening on port 59141
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656279754722	geckodriver	INFO	Listening on 127.0.0.1:59312
+1656279757797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofile8SVnc8"
+1656279758205	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59313
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofile8SVnc8\\search.json.mozlz4", (void 0)))
+1656279760237	Marionette	INFO	Listening on port 59336
+DevTools listening on ws://localhost:59313/devtools/browser/4bd3f085-ffaa-4369-83d2-42374fa434a6
+Read port: 59336
+1656279760468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656279780384	Marionette	INFO	Stopped listening on port 59336
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656287899042	geckodriver	INFO	Listening on 127.0.0.1:60928
+1656287902091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilelgUSGT"
+1656287902540	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60929
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilelgUSGT\\search.json.mozlz4", (void 0)))
+1656287904835	Marionette	INFO	Listening on port 60955
+Read port: 60955
+1656287904891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:60929/devtools/browser/e44ad1fc-9d4c-4786-b4cd-6afa4e542236
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656287973340	Marionette	INFO	Stopped listening on port 60955
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656287977976	geckodriver	INFO	Listening on 127.0.0.1:61111
+1656287981013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61112" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileyMl7GA"
+1656287981451	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61112
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileyMl7GA\\search.json.mozlz4", (void 0)))
+1656287983763	Marionette	INFO	Listening on port 61138
+Read port: 61138
+DevTools listening on ws://localhost:61112/devtools/browser/31050c7b-420c-495b-b1c7-a0fddbc38933
+1656287983805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656287993052	Marionette	INFO	Stopped listening on port 61138
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656288121493	geckodriver	INFO	Listening on 127.0.0.1:61325
+1656288124521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61326" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileNxHWmb"
+1656288125009	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61326
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileNxHWmb\\search.json.mozlz4", (void 0)))
+1656288127348	Marionette	INFO	Listening on port 61351
+Read port: 61351
+DevTools listening on ws://localhost:61326/devtools/browser/a0b9202a-670f-4583-a631-03706e033910
+1656288127431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656288137012	Marionette	INFO	Stopped listening on port 61351
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Usuario\AppData\Local\Temp\rust_mozprofileNxHWmb\protections.sqlite
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656288195944	geckodriver	INFO	Listening on 127.0.0.1:61485
+1656288198987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61486" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilecUTd69"
+1656288199416	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61486
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilecUTd69\\search.json.mozlz4", (void 0)))
+1656288201741	Marionette	INFO	Listening on port 61512
+DevTools listening on ws://localhost:61486/devtools/browser/6cb68419-4c0a-4e1a-9d91-056cbed17d08
+Read port: 61512
+1656288201791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656288211871	Marionette	INFO	Stopped listening on port 61512
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Usuario\AppData\Local\Temp\rust_mozprofilecUTd69\protections.sqlite
+1656288364777	geckodriver	INFO	Listening on 127.0.0.1:61690
+1656288367824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofiles7q9la"
+1656288368259	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61691
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofiles7q9la\\search.json.mozlz4", (void 0)))
+1656288370563	Marionette	INFO	Listening on port 61715
+Read port: 61715
+DevTools listening on ws://localhost:61691/devtools/browser/cb5ea53d-9b79-41f7-b888-3513f3776b38
+1656288370614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656288380295	Marionette	INFO	Stopped listening on port 61715
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Usuario\AppData\Local\Temp\rust_mozprofiles7q9la\protections.sqlite
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656288421145	geckodriver	INFO	Listening on 127.0.0.1:61842
+1656288424183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileOD7tPR"
+1656288424644	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61843
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileOD7tPR\\search.json.mozlz4", (void 0)))
+1656288426811	Marionette	INFO	Listening on port 61868
+DevTools listening on ws://localhost:61843/devtools/browser/535a2d15-a164-409b-9775-70f8130a6f4e
+Read port: 61868
+1656288426877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656288436023	Marionette	INFO	Stopped listening on port 61868
+1656288460248	geckodriver	INFO	Listening on 127.0.0.1:61985
+1656288463286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61986" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileQ9kUGb"
+1656288463735	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61986
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileQ9kUGb\\search.json.mozlz4", (void 0)))
+1656288466063	Marionette	INFO	Listening on port 62011
+Read port: 62011
+1656288466094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:61986/devtools/browser/d4490083-3924-40ed-8274-ded4f6dcf0b2
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656288474679	Marionette	INFO	Stopped listening on port 62011
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656289553092	geckodriver	INFO	Listening on 127.0.0.1:62768
+1656289556130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileV2FS7U"
+1656289556589	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62769
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileV2FS7U\\search.json.mozlz4", (void 0)))
+1656289558871	Marionette	INFO	Listening on port 62795
+DevTools listening on ws://localhost:62769/devtools/browser/1f98c86f-27ee-40a6-b70b-1081fdd47d31
+Read port: 62795
+1656289558929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656289567369	Marionette	INFO	Stopped listening on port 62795
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656289603900	geckodriver	INFO	Listening on 127.0.0.1:62913
+1656289606981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62914" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileOuX3EX"
+1656289607416	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62914
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileOuX3EX\\search.json.mozlz4", (void 0)))
+1656289609690	Marionette	INFO	Listening on port 62941
+DevTools listening on ws://localhost:62914/devtools/browser/1251ba3e-10ae-4e32-a93b-5da6e5d70ec0
+Read port: 62941
+1656289609769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+1656289627869	Marionette	INFO	Stopped listening on port 62941
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656289639731	geckodriver	INFO	Listening on 127.0.0.1:63141
+1656289642770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63142" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileMsZpVJ"
+1656289643236	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63142
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileMsZpVJ\\search.json.mozlz4", (void 0)))
+1656289645531	Marionette	INFO	Listening on port 63167
+DevTools listening on ws://localhost:63142/devtools/browser/d0000eb2-c4b5-4723-a349-88e4ebf23d14
+Read port: 63167
+1656289645592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+1656289665222	Marionette	INFO	Stopped listening on port 63167
+1656289671918	geckodriver	INFO	Listening on 127.0.0.1:63369
+1656289674957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63370" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofile444S8K"
+1656289675426	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63370
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofile444S8K\\search.json.mozlz4", (void 0)))
+1656289677700	Marionette	INFO	Listening on port 63394
+Read port: 63394
+DevTools listening on ws://localhost:63370/devtools/browser/35f27aa6-7ced-48ec-92a7-faaf6e37617a
+1656289677746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+1656289708077	Marionette	INFO	Stopped listening on port 63394
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656289897263	geckodriver	INFO	Listening on 127.0.0.1:64703
+1656289900300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64704" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileIEBdUg"
+1656289900767	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64704
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileIEBdUg\\search.json.mozlz4", (void 0)))
+1656289903016	Marionette	INFO	Listening on port 64729
+DevTools listening on ws://localhost:64704/devtools/browser/7643345d-9472-4f9b-8169-186cf1e73901
+Read port: 64729
+1656289903089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+1656289933305	Marionette	INFO	Stopped listening on port 64729
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656289998866	geckodriver	INFO	Listening on 127.0.0.1:64977
+1656290001896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64978" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilej5hyis"
+1656290002345	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64978
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilej5hyis\\search.json.mozlz4", (void 0)))
+1656290004582	Marionette	INFO	Listening on port 65006
+DevTools listening on ws://localhost:64978/devtools/browser/9df9dd84-99c1-45b4-afe9-555b470e8e57
+Read port: 65006
+1656290004687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+1656290033820	Marionette	INFO	Stopped listening on port 65006
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656290063729	geckodriver	INFO	Listening on 127.0.0.1:65230
+1656290066762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileOLYcKe"
+1656290067218	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65231
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileOLYcKe\\search.json.mozlz4", (void 0)))
+1656290069459	Marionette	INFO	Listening on port 65256
+DevTools listening on ws://localhost:65231/devtools/browser/f95e7af0-069d-4581-b558-2a37eb497e6c
+Read port: 65256
+1656290069562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+1656290097078	Marionette	INFO	Stopped listening on port 65256
+1656291738421	geckodriver	INFO	Listening on 127.0.0.1:50251
+1656291741454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50252" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilehp4ZwD"
+1656291741885	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50252
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilehp4ZwD\\search.json.mozlz4", (void 0)))
+1656291744194	Marionette	INFO	Listening on port 50277
+Read port: 50277
+DevTools listening on ws://localhost:50252/devtools/browser/a45726e0-56b4-4081-8eb1-15cbf6d30ef8
+1656291744248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656291795074	Marionette	INFO	Stopped listening on port 50277
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656291797645	geckodriver	INFO	Listening on 127.0.0.1:50331
+1656291800672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50332" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileEdRl47"
+1656291801093	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50332
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileEdRl47\\search.json.mozlz4", (void 0)))
+1656291803440	Marionette	INFO	Listening on port 50358
+DevTools listening on ws://localhost:50332/devtools/browser/0aa1b6ac-0b18-468b-9320-bb1aa749ecef
+Read port: 50358
+1656291803571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+1656291877118	Marionette	INFO	Stopped listening on port 50358
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656291881342	geckodriver	INFO	Listening on 127.0.0.1:50599
+1656291884398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50600" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileUsSnwi"
+1656291884896	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50600
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileUsSnwi\\search.json.mozlz4", (void 0)))
+1656291887112	Marionette	INFO	Listening on port 50624
+DevTools listening on ws://localhost:50600/devtools/browser/2f6f170a-326b-4765-bed7-03fed0538c30
+Read port: 50624
+1656291887191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+1656291941023	Marionette	INFO	Stopped listening on port 50624
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656291949266	geckodriver	INFO	Listening on 127.0.0.1:50852
+1656291952317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilexgcoR7"
+1656291952744	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50853
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilexgcoR7\\search.json.mozlz4", (void 0)))
+1656291954968	Marionette	INFO	Listening on port 50878
+DevTools listening on ws://localhost:50853/devtools/browser/d6992299-be0f-463e-9498-82423443419c
+Read port: 50878
+1656291955091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+1656291973040	Marionette	INFO	Stopped listening on port 50878
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656293713964	geckodriver	INFO	Listening on 127.0.0.1:52493
+1656293717000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileTPX0h0"
+1656293717424	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52494
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileTPX0h0\\search.json.mozlz4", (void 0)))
+1656293719673	Marionette	INFO	Listening on port 52519
+DevTools listening on ws://localhost:52494/devtools/browser/92496f3e-b80f-4b31-96b8-8f5d9567fca4
+Read port: 52519
+1656293719797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+1656293749747	Marionette	INFO	Stopped listening on port 52519
+1656294011174	geckodriver	INFO	Listening on 127.0.0.1:52931
+1656294014220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofiley7E6xq"
+1656294014654	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52932
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofiley7E6xq\\search.json.mozlz4", (void 0)))
+1656294016887	Marionette	INFO	Listening on port 52959
+DevTools listening on ws://localhost:52932/devtools/browser/b79a1659-8a58-4a98-91da-182f882b90df
+Read port: 52959
+1656294017008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656294062464	Marionette	INFO	Stopped listening on port 52959
+1656294212960	geckodriver	INFO	Listening on 127.0.0.1:53299
+1656294216006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53300" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofiletWUTLe"
+1656294216431	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53300
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofiletWUTLe\\search.json.mozlz4", (void 0)))
+1656294218644	Marionette	INFO	Listening on port 53324
+Read port: 53324
+DevTools listening on ws://localhost:53300/devtools/browser/2c8e497c-77e2-4b46-b223-fd6baae51adb
+1656294218691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656294253315	Marionette	INFO	Stopped listening on port 53324
+1656294498933	geckodriver	INFO	Listening on 127.0.0.1:53703
+1656294501968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53704" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilePgvACr"
+1656294502392	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53704
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilePgvACr\\search.json.mozlz4", (void 0)))
+1656294504677	Marionette	INFO	Listening on port 53728
+Read port: 53728
+DevTools listening on ws://localhost:53704/devtools/browser/e1c19e26-01a6-4deb-919a-3a9a364b52c6
+1656294504748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656294540451	Marionette	INFO	Stopped listening on port 53728
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656294650835	geckodriver	INFO	Listening on 127.0.0.1:54041
+1656294653880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54042" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileyZvKyN"
+1656294654307	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54042
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileyZvKyN\\search.json.mozlz4", (void 0)))
+1656294656522	Marionette	INFO	Listening on port 54067
+Read port: 54067
+1656294656561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:54042/devtools/browser/29617545-0548-4791-8878-bfc2ad197269
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656294704327	Marionette	INFO	Stopped listening on port 54067
+1656294722419	geckodriver	INFO	Listening on 127.0.0.1:54340
+1656294725463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofile15j0aN"
+1656294725911	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54341
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofile15j0aN\\search.json.mozlz4", (void 0)))
+1656294728105	Marionette	INFO	Listening on port 54366
+Read port: 54366
+1656294728146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:54341/devtools/browser/a19df6fa-8341-4f46-a340-a4caac3bc5a6
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656294763171	Marionette	INFO	Stopped listening on port 54366
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656295097023	geckodriver	INFO	Listening on 127.0.0.1:54756
+1656295100060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilecjZA3M"
+1656295100487	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54757
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilecjZA3M\\search.json.mozlz4", (void 0)))
+1656295102751	Marionette	INFO	Listening on port 54779
+DevTools listening on ws://localhost:54757/devtools/browser/3811eb81-5230-4507-98fc-82515f602056
+Read port: 54779
+1656295102851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656295141909	Marionette	INFO	Stopped listening on port 54779
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656295412254	geckodriver	INFO	Listening on 127.0.0.1:55029
+1656295415295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55030" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilehAJkAx"
+1656295415716	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55030
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilehAJkAx\\search.json.mozlz4", (void 0)))
+1656295417960	Marionette	INFO	Listening on port 55052
+DevTools listening on ws://localhost:55030/devtools/browser/7c850f37-6be5-4b76-92ec-b919a9fd978d
+Read port: 55052
+1656295418087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656295467468	Marionette	INFO	Stopped listening on port 55052
+1656295804849	geckodriver	INFO	Listening on 127.0.0.1:55284
+1656295807911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileRFKQuA"
+1656295808342	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55285
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileRFKQuA\\search.json.mozlz4", (void 0)))
+1656295810586	Marionette	INFO	Listening on port 55307
+DevTools listening on ws://localhost:55285/devtools/browser/898b3739-0e73-4fb3-8685-23fd4d02d344
+Read port: 55307
+1656295810698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656295850863	Marionette	INFO	Stopped listening on port 55307
+1656299119732	geckodriver	INFO	Listening on 127.0.0.1:55732
+1656299122767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileGuGiJx"
+1656299123245	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55733
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileGuGiJx\\search.json.mozlz4", (void 0)))
+1656299125659	Marionette	INFO	Listening on port 55756
+DevTools listening on ws://localhost:55733/devtools/browser/c25d7738-7162-4c8d-a7ef-b3012bfb62da
+Read port: 55756
+1656299125780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656299178288	Marionette	INFO	Stopped listening on port 55756
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656299230938	geckodriver	INFO	Listening on 127.0.0.1:56000
+1656299233965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileANPAoj"
+1656299234457	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56001
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileANPAoj\\search.json.mozlz4", (void 0)))
+1656299236807	Marionette	INFO	Listening on port 56025
+DevTools listening on ws://localhost:56001/devtools/browser/79237109-7c6d-4101-9456-f0cd771a9fa2
+Read port: 56025
+1656299236876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656299275873	Marionette	INFO	Stopped listening on port 56025
+1656299304774	geckodriver	INFO	Listening on 127.0.0.1:56272
+1656299307798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileZDMNYO"
+1656299308290	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56273
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileZDMNYO\\search.json.mozlz4", (void 0)))
+1656299310701	Marionette	INFO	Listening on port 56295
+DevTools listening on ws://localhost:56273/devtools/browser/be065a95-33c0-4a0d-95c2-4b213c145baf
+Read port: 56295
+1656299310826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656299347200	Marionette	INFO	Stopped listening on port 56295
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656299426295	geckodriver	INFO	Listening on 127.0.0.1:56544
+1656299429337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56545" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileAi9tOi"
+1656299429824	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56545
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileAi9tOi\\search.json.mozlz4", (void 0)))
+1656299432188	Marionette	INFO	Listening on port 56567
+Read port: 56567
+DevTools listening on ws://localhost:56545/devtools/browser/bfec434b-fe25-49c6-94f8-0b97c9a6fe24
+1656299432242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-5DR6P6J&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 36: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-5DR6P6J&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 36: uncaught exception: [object Object]
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656299466310	Marionette	INFO	Stopped listening on port 56567
+1656299581367	geckodriver	INFO	Listening on 127.0.0.1:56873
+1656299584399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56874" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilerySIFW"
+1656299584827	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56874
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilerySIFW\\search.json.mozlz4", (void 0)))
+1656299587143	Marionette	INFO	Listening on port 56898
+DevTools listening on ws://localhost:56874/devtools/browser/b02d0d85-bae1-4dc3-8205-a8b96250b8f5
+Read port: 56898
+1656299587281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656299627032	Marionette	INFO	Stopped listening on port 56898
+1656299635656	geckodriver	INFO	Listening on 127.0.0.1:57157
+1656299638700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57158" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilem1qXiJ"
+1656299639153	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57158
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilem1qXiJ\\search.json.mozlz4", (void 0)))
+1656299641567	Marionette	INFO	Listening on port 57183
+Read port: 57183
+1656299641597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:57158/devtools/browser/1f4798e5-7054-4a27-b55f-2d223c94d3a6
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656299676047	Marionette	INFO	Stopped listening on port 57183
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656299768264	geckodriver	INFO	Listening on 127.0.0.1:57490
+1656299771311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileA4B15n"
+1656299771770	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57491
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileA4B15n\\search.json.mozlz4", (void 0)))
+1656299774116	Marionette	INFO	Listening on port 57516
+DevTools listening on ws://localhost:57491/devtools/browser/2b061aac-7611-46ef-87a9-1eca664a8006
+Read port: 57516
+1656299774219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+1656299940501	geckodriver	INFO	Listening on 127.0.0.1:57710
+1656299943544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilet55Kgp"
+1656299943960	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57711
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilet55Kgp\\search.json.mozlz4", (void 0)))
+1656299946185	Marionette	INFO	Listening on port 57736
+Read port: 57736
+DevTools listening on ws://localhost:57711/devtools/browser/1ace045c-c444-4efb-9e7f-acb456847c5b
+1656299946229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656299990688	Marionette	INFO	Stopped listening on port 57736
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656300033552	geckodriver	INFO	Listening on 127.0.0.1:58039
+1656300036590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58040" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilePxwWjd"
+1656300037025	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58040
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilePxwWjd\\search.json.mozlz4", (void 0)))
+1656300039049	Marionette	INFO	Listening on port 58062
+DevTools listening on ws://localhost:58040/devtools/browser/94621fec-f833-4dc9-a7a5-284a4cc091ab
+Read port: 58062
+1656300039131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656300074390	Marionette	INFO	Stopped listening on port 58062
+1656300348782	geckodriver	INFO	Listening on 127.0.0.1:58454
+1656300351813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofile1PAfN0"
+1656300352277	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58455
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofile1PAfN0\\search.json.mozlz4", (void 0)))
+1656300354689	Marionette	INFO	Listening on port 58477
+DevTools listening on ws://localhost:58455/devtools/browser/aeb28c93-37bb-4405-84b8-768491e9c7a5
+Read port: 58477
+1656300354825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656300402845	Marionette	INFO	Stopped listening on port 58477
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656300454925	geckodriver	INFO	Listening on 127.0.0.1:58727
+1656300457955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileD6lapK"
+1656300458444	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58728
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileD6lapK\\search.json.mozlz4", (void 0)))
+1656300460785	Marionette	INFO	Listening on port 58751
+DevTools listening on ws://localhost:58728/devtools/browser/71387507-e55c-42a3-b5d3-08784270f6b5
+Read port: 58751
+1656300460865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656300500301	Marionette	INFO	Stopped listening on port 58751
+1656304284018	geckodriver	INFO	Listening on 127.0.0.1:59255
+1656304287078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59256" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileqivgCt"
+1656304287525	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59256
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileqivgCt\\search.json.mozlz4", (void 0)))
+1656304289714	Marionette	INFO	Listening on port 59280
+Read port: 59280
+DevTools listening on ws://localhost:59256/devtools/browser/29767e57-29e2-4da2-93b2-ba00134f5eec
+1656304289759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656304338848	Marionette	INFO	Stopped listening on port 59280
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656304521146	geckodriver	INFO	Listening on 127.0.0.1:59553
+1656304524179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileenrtbe"
+1656304524607	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59554
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileenrtbe\\search.json.mozlz4", (void 0)))
+1656304526721	Marionette	INFO	Listening on port 59576
+Read port: 59576
+1656304526757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:59554/devtools/browser/666ee4f2-2a9d-49c9-bf83-f9c2ec64603a
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656304562826	Marionette	INFO	Stopped listening on port 59576
+1656304878380	geckodriver	INFO	Listening on 127.0.0.1:59876
+1656304881414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileW1Qbhv"
+1656304881868	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59877
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileW1Qbhv\\search.json.mozlz4", (void 0)))
+1656304884031	Marionette	INFO	Listening on port 59899
+DevTools listening on ws://localhost:59877/devtools/browser/e03817d5-ffb9-4144-9436-9de7da15c322
+Read port: 59899
+1656304884097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656304919539	Marionette	INFO	Stopped listening on port 59899
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656305037493	geckodriver	INFO	Listening on 127.0.0.1:60159
+1656305040517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60160" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilem03ekk"
+1656305040957	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60160
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilem03ekk\\search.json.mozlz4", (void 0)))
+1656305043197	Marionette	INFO	Listening on port 60182
+DevTools listening on ws://localhost:60160/devtools/browser/a8778c69-e99e-405f-b54d-86b6342d953d
+Read port: 60182
+1656305043313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656305077538	Marionette	INFO	Stopped listening on port 60182
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656305205310	geckodriver	INFO	Listening on 127.0.0.1:60457
+1656305208351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileWJbCCK"
+1656305208781	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60458
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileWJbCCK\\search.json.mozlz4", (void 0)))
+1656305210968	Marionette	INFO	Listening on port 60480
+Read port: 60480
+1656305211039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:60458/devtools/browser/ee1cb39d-5757-4e82-a2e8-3d0caa98089a
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656305244655	Marionette	INFO	Stopped listening on port 60480
+1656305365088	geckodriver	INFO	Listening on 127.0.0.1:60742
+1656305368132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60743" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilesjVXIv"
+1656305368595	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60743
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofilesjVXIv\\search.json.mozlz4", (void 0)))
+1656305370778	Marionette	INFO	Listening on port 60767
+Read port: 60767
+DevTools listening on ws://localhost:60743/devtools/browser/cfe1df85-2634-4697-bf8b-233bd03c99c3
+1656305370820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656305403598	Marionette	INFO	Stopped listening on port 60767
+1656305474133	geckodriver	INFO	Listening on 127.0.0.1:61025
+1656305477165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61026" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofile0uXkrx"
+1656305477627	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61026
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofile0uXkrx\\search.json.mozlz4", (void 0)))
+1656305479923	Marionette	INFO	Listening on port 61049
+DevTools listening on ws://localhost:61026/devtools/browser/839330fb-7bf1-4474-8694-73845079e8f1
+Read port: 61049
+1656305480061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656305512433	Marionette	INFO	Stopped listening on port 61049
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656305550495	geckodriver	INFO	Listening on 127.0.0.1:61297
+1656305553524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61298" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileo54bvw"
+1656305553992	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61298
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileo54bvw\\search.json.mozlz4", (void 0)))
+1656305556328	Marionette	INFO	Listening on port 61320
+DevTools listening on ws://localhost:61298/devtools/browser/cd6e335d-27ba-4d36-87b9-7c5ab80f3624
+Read port: 61320
+1656305556438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656305588890	Marionette	INFO	Stopped listening on port 61320
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656305640493	geckodriver	INFO	Listening on 127.0.0.1:61572
+1656305643536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileWGnVNf"
+1656305644004	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61573
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Usuario\\AppData\\Local\\Temp\\rust_mozprofileWGnVNf\\search.json.mozlz4", (void 0)))
+1656305646300	Marionette	INFO	Listening on port 61614
+Read port: 61614
+1656305646328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:61573/devtools/browser/1e1c727e-22ee-40ff-be2c-7e4d4dbf7746
+JavaScript error: https://www.papajohns.cl/, line 1: SyntaxError: missing : after property id
+JavaScript error: https://www.papajohns.cl/ line 481 > injectedScript, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.84c47b80.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://meltpizzas.com/catalogo line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: https://app.beetrack.cl/javascript_widget/beetrack_widget.js, line 50: TypeError: widgetParent is null
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://underpizza.com/ line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://cl.littlecaesars.com/commons-ed64e33cae10040c8e24.js, line 33: unreachable code after return statement
+1656305681223	Marionette	INFO	Stopped listening on port 61614

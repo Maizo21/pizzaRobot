@@ -1,0 +1,54 @@
+[
+    "---------- papajohns.cl ----------",
+    {
+        "Pizza": "Super Pepperoni",
+        "price": "$ 13.450"
+    },
+    "---------- meltpizzas.com ----------",
+    {
+        "name": "DOUBLE PEPPERONI",
+        "price": "$12.990"
+    },
+    "---------- underpizza.com ----------",
+    "---------- littlecaesars.com ----------",
+    {
+        "name": "FAMILIAR\nPEPPERONI",
+        "price": "$5.500"
+    },
+    {
+        "name": "FAMILIAR\nPIZZA 4N1",
+        "price": "$7.000"
+    },
+    {
+        "name": "FAMILIAR\nSUPER CHEESE",
+        "price": "$8.000"
+    },
+    {
+        "name": "FAMILIAR\n3 MEAT TREAT\u00ae",
+        "price": "$9.000"
+    },
+    {
+        "name": "FAMILIAR\nULTIMATE SUPREME",
+        "price": "$9.000"
+    },
+    {
+        "name": "FAMILIAR\nSUPER CHEESE 4N1",
+        "price": "$9.500"
+    },
+    {
+        "name": "COMIDA COMPLETA",
+        "price": "$10.000"
+    },
+    {
+        "name": "COMBO\nFIESTA",
+        "price": "$15.000"
+    },
+    {
+        "name": "COMBO\nFIESTA 2.0",
+        "price": "$16.500"
+    },
+    {
+        "name": "COMBO FELIZ",
+        "price": "$20.000"
+    }
+]
