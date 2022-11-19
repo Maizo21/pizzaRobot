@@ -2,53 +2,69 @@
     "---------- papajohns.cl ----------",
     {
         "Pizza": "Super Pepperoni",
-        "price": "$ 13.450"
+        "price": "$14.750"
     },
     "---------- meltpizzas.com ----------",
     {
         "name": "DOUBLE PEPPERONI",
-        "price": "$12.990"
+        "price": "$13.990"
+    },
+    {
+        "name": "DOUBLE PEPPERONI MELT&GO",
+        "price": "$7.990"
     },
     "---------- underpizza.com ----------",
+    {
+        "name": "PEPPERONI FAMILIAR",
+        "price": "$5.990"
+    },
+    {
+        "name": "DOBLE PEPPERONI FAMILIAR",
+        "price": "$6.990"
+    },
+    {
+        "name": "COMBO PEPPERONI",
+        "price": "$10.490"
+    },
+    {
+        "name": "COMBO DOBLE PEPPERONI",
+        "price": "$11.490"
+    },
     "---------- littlecaesars.com ----------",
     {
-        "name": "FAMILIAR\nPEPPERONI",
-        "price": "$5.500"
-    },
-    {
-        "name": "FAMILIAR\nPIZZA 4N1",
-        "price": "$7.000"
-    },
-    {
-        "name": "FAMILIAR\nSUPER CHEESE",
-        "price": "$8.000"
-    },
-    {
-        "name": "FAMILIAR\n3 MEAT TREAT\u00ae",
-        "price": "$9.000"
+        "name": "FAMILIAR PEPPERONI",
+        "price": "$6.500"
     },
     {
         "name": "FAMILIAR\nULTIMATE SUPREME",
-        "price": "$9.000"
+        "price": "$11.000"
     },
     {
         "name": "FAMILIAR\nSUPER CHEESE 4N1",
+        "price": "$10.500"
+    },
+    {
+        "name": "COMBO PUFF X3",
+        "price": "$8.000"
+    },
+    {
+        "name": "CAESAR PUFFS PEPPERONI",
+        "price": "4.000"
+    },
+    {
+        "name": "FAMILIAR\nPIZZA 4N1",
+        "price": "$8.000"
+    },
+    {
+        "name": "FAMILIAR\nSUPER CHEESE",
         "price": "$9.500"
     },
     {
-        "name": "COMIDA COMPLETA",
-        "price": "$10.000"
+        "name": "FAMILIAR\n3 MEAT TREAT\u00ae",
+        "price": "$11.000"
     },
     {
-        "name": "COMBO\nFIESTA",
-        "price": "$15.000"
-    },
-    {
-        "name": "COMBO\nFIESTA 2.0",
-        "price": "$16.500"
-    },
-    {
-        "name": "COMBO FELIZ",
-        "price": "$20.000"
+        "name": "COMBO EXTRA PEPPE",
+        "price": "$13.000"
     }
 ]
